@@ -6,7 +6,7 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-vijaya--sri--manda-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vijaya-sri-manda)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-vijaya--sri--manda-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vijaya-sri-manda-399a56343/)
 [![GitHub](https://img.shields.io/badge/GitHub-vijayasri--manda-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vijayasri-manda)
 [![Gmail](https://img.shields.io/badge/Gmail-vijayasrimanda025-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vijayasrimanda025@gmail.com)
 
@@ -175,7 +175,7 @@ print(me.mission())
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vijayasri-manda)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vijaya-sri-manda)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vijaya-sri-manda-399a56343/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vijayasrimanda025@gmail.com)
 
 </div>
