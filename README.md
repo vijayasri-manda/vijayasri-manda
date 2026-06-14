@@ -9,7 +9,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-vijaya--sri--manda-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vijaya-sri-manda)
 [![GitHub](https://img.shields.io/badge/GitHub-vijayasri--manda-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vijayasri-manda)
 [![Gmail](https://img.shields.io/badge/Gmail-vijayasrimanda025-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vijayasrimanda025@gmail.com)
-![Profile Views](https://komarev.com/ghpvc/?username=vijayasri-manda&label=Profile+Views&style=for-the-badge&color=blueviolet)
 
 </div>
 
